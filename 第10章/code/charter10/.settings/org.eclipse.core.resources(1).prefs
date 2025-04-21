@@ -1,9 +1,0 @@
-eclipse.preferences.version=1
-encoding//src/DrawKwithRSI.py=utf-8
-encoding//src/DrawRSI.py=utf-8
-encoding//src/calRSIBuyPoints.py=utf-8
-encoding//src/calRSISellPoints.py=utf-8
-encoding//src/sendMailWithCsvAttachment.py=utf-8
-encoding//src/sendMailWithHtml.py=utf-8
-encoding//src/sendMailWithPicAttachment.py=utf-8
-encoding//src/sendSimpleMail.py=utf-8
