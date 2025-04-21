@@ -1,0 +1,25 @@
+[2019-07-14 21:00:40,328][Thread-4:4872][task_id:django.server][INFO] "GET /log/ HTTP/1.1" 200 9
+[2019-07-14 21:01:40,421][Thread-1:952][task_id:MyDjangoLogProj.view][INFO] info level log
+[2019-07-14 21:01:40,421][Thread-1:952][task_id:MyDjangoLogProj.view][ERROR] error level log
+[2019-07-14 21:07:51,671][Thread-1:4960][task_id:errorOnly][ERROR] error level log
+[2019-07-14 21:08:08,484][Thread-4:1552][task_id:MyDjangoLogProj.view][WARNING] warning level log
+[2019-07-14 21:08:08,484][Thread-4:1552][task_id:MyDjangoLogProj.view][INFO] info level log
+[2019-07-14 21:08:08,484][Thread-4:1552][task_id:MyDjangoLogProj.view][ERROR] error level log
+[2019-07-15 07:10:35,453][Thread-1:4572][task_id:MyDjangoLogProj.view][WARNING] warning level log
+[2019-07-15 07:10:35,468][Thread-1:4572][task_id:MyDjangoLogProj.view][INFO] info level log
+[2019-07-15 07:10:35,468][Thread-1:4572][task_id:MyDjangoLogProj.view][ERROR] error level log
+[2019-07-15 07:10:35,703][Thread-3:4352][task_id:django.request][WARNING] Not Found: /favicon.ico
+[2019-07-15 22:03:58,000][Thread-1:7692][task_id:django.request][WARNING] Not Found: /favicon.ico
+[2019-07-15 22:04:00,828][Thread-3:7880][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:04:01,218][Thread-4:6680][task_id:django.request][WARNING] Not Found: /favicon.ico
+[2019-07-15 22:04:59,593][Thread-5:1568][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:12:26,265][Thread-1:6468][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:14:10,515][Thread-1:7964][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:14:16,812][Thread-3:7328][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:15:38,750][Thread-1:7536][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:20:35,750][Thread-1:1952][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:21:24,437][Thread-3:6956][task_id:django.request][WARNING] Not Found: /favicon.ico
+[2019-07-15 22:21:25,859][Thread-4:6932][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:22:46,984][Thread-1:7924][task_id:errorOnly][WARNING] warning level log
+[2019-07-15 22:22:46,984][Thread-1:7924][task_id:errorOnly][INFO] info level log
+[2019-07-15 22:22:46,984][Thread-1:7924][task_id:errorOnly][ERROR] error level log

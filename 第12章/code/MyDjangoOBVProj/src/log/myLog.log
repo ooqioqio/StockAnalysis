@@ -1,0 +1,69 @@
+[2019-07-24 21:54:29,140][Thread-2:1444][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-24 21:54:29,500][Thread-3:544][task_id:django.request][WARNING] Not Found: /favicon.ico
+[2019-07-24 21:56:00,750][Thread-4:3904][task_id:MyDjangoOBVProj.mainForm][INFO] start draw
+[2019-07-24 21:56:00,750][Thread-4:3904][task_id:MyDjangoOBVProj.mainForm][INFO] stockCode is:600007
+[2019-07-24 21:56:00,750][Thread-4:3904][task_id:MyDjangoOBVProj.mainForm][INFO] startDate is:2019-01-01
+[2019-07-24 21:56:00,750][Thread-4:3904][task_id:MyDjangoOBVProj.mainForm][INFO] endDate is:2019-05-31
+[2019-07-24 21:56:00,750][Thread-4:3904][task_id:MyDjangoOBVProj.mainForm][INFO] start loadStock
+[2019-07-24 21:56:00,750][Thread-4:3904][task_id:MyDjangoOBVProj.mainForm][INFO] No data in DB, get from Web
+[2019-07-24 21:56:00,750][Thread-4:3904][task_id:MyDjangoOBVProj.mainForm][INFO] start insertData
+[2019-07-24 21:59:56,296][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] start draw
+[2019-07-24 21:59:56,296][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] stockCode is:600007
+[2019-07-24 21:59:56,296][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] startDate is:2019-01-01
+[2019-07-24 21:59:56,296][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] endDate is:2019-05-31
+[2019-07-24 21:59:56,296][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] start loadStock
+[2019-07-24 21:59:56,312][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] No data in DB, get from Web
+[2019-07-24 21:59:56,312][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] start insertData
+[2019-07-24 22:01:28,437][Thread-5:3024][task_id:MyDjangoOBVProj.mainForm][INFO] start calOBV
+[2019-07-24 22:05:25,656][Thread-6:4048][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-24 22:05:27,281][Thread-7:5024][task_id:MyDjangoOBVProj.mainForm][INFO] start draw
+[2019-07-24 22:05:27,281][Thread-7:5024][task_id:MyDjangoOBVProj.mainForm][INFO] stockCode is:600007
+[2019-07-24 22:05:27,281][Thread-7:5024][task_id:MyDjangoOBVProj.mainForm][INFO] startDate is:2019-01-01
+[2019-07-24 22:05:27,281][Thread-7:5024][task_id:MyDjangoOBVProj.mainForm][INFO] endDate is:2019-05-31
+[2019-07-24 22:05:27,281][Thread-7:5024][task_id:MyDjangoOBVProj.mainForm][INFO] start loadStock
+[2019-07-24 22:05:27,281][Thread-7:5024][task_id:MyDjangoOBVProj.mainForm][INFO] start calOBV
+[2019-07-25 06:53:14,515][Thread-2:4512][task_id:django.request][WARNING] Not Found: /favicon.ico
+[2019-07-25 06:53:15,859][Thread-3:4692][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-25 06:53:16,234][Thread-4:6140][task_id:django.request][WARNING] Not Found: /favicon.ico
+[2019-07-25 06:53:17,703][Thread-5:4940][task_id:MyDjangoOBVProj.mainForm][INFO] start draw
+[2019-07-25 06:53:17,703][Thread-5:4940][task_id:MyDjangoOBVProj.mainForm][INFO] stockCode is:600007
+[2019-07-25 06:53:17,703][Thread-5:4940][task_id:MyDjangoOBVProj.mainForm][INFO] startDate is:2019-01-01
+[2019-07-25 06:53:17,703][Thread-5:4940][task_id:MyDjangoOBVProj.mainForm][INFO] endDate is:2019-05-31
+[2019-07-25 06:53:17,703][Thread-5:4940][task_id:MyDjangoOBVProj.mainForm][INFO] start loadStock
+[2019-07-25 06:53:17,750][Thread-5:4940][task_id:MyDjangoOBVProj.mainForm][INFO] start calOBV
+[2019-07-25 07:00:27,359][Thread-2:2784][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-25 07:00:29,421][Thread-3:5936][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-25 07:00:31,734][Thread-4:5720][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-25 07:00:45,234][Thread-5:4556][task_id:MyDjangoOBVProj.mainForm][INFO] start draw
+[2019-07-25 07:00:45,234][Thread-5:4556][task_id:MyDjangoOBVProj.mainForm][INFO] stockCode is:600007
+[2019-07-25 07:00:45,234][Thread-5:4556][task_id:MyDjangoOBVProj.mainForm][INFO] startDate is:2019-01-01
+[2019-07-25 07:00:45,234][Thread-5:4556][task_id:MyDjangoOBVProj.mainForm][INFO] endDate is:2019-05-31
+[2019-07-25 07:00:45,234][Thread-5:4556][task_id:MyDjangoOBVProj.mainForm][INFO] start loadStock
+[2019-07-25 07:00:45,250][Thread-5:4556][task_id:MyDjangoOBVProj.mainForm][INFO] start calOBV
+[2019-07-25 07:06:45,843][Thread-2:5668][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-25 07:06:48,359][Thread-3:2472][task_id:MyDjangoOBVProj.mainForm][INFO] start draw
+[2019-07-25 07:06:48,359][Thread-3:2472][task_id:MyDjangoOBVProj.mainForm][INFO] stockCode is:600007
+[2019-07-25 07:06:48,359][Thread-3:2472][task_id:MyDjangoOBVProj.mainForm][INFO] startDate is:2019-01-01
+[2019-07-25 07:06:48,359][Thread-3:2472][task_id:MyDjangoOBVProj.mainForm][INFO] endDate is:2019-05-31
+[2019-07-25 07:06:48,359][Thread-3:2472][task_id:MyDjangoOBVProj.mainForm][INFO] start loadStock
+[2019-07-25 07:06:48,375][Thread-3:2472][task_id:MyDjangoOBVProj.mainForm][INFO] start calOBV
+[2019-07-25 07:06:48,984][Thread-3:2472][task_id:django.request][ERROR] Internal Server Error: /mainAction/
+Traceback (most recent call last):
+  File "D:\Python34\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "D:\Python34\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python34\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\software\java web\清华出版社\PythonWorkSpace\MyDjangoOBVProj\src\MyDjangoOBVProj\mainForm.py", line 173, in draw
+    buyDate = calBuyPoints(df)
+  File "D:\software\java web\清华出版社\PythonWorkSpace\MyDjangoOBVProj\src\MyDjangoOBVProj\mainForm.py", line 98, in calBuyPoints
+    logger.debug("obv on first day is:" + df.iloc[cnt-2]['OBV'])
+TypeError: Can't convert 'numpy.float64' object to str implicitly
+[2019-07-25 07:10:22,718][Thread-2:4076][task_id:MyDjangoOBVProj.mainForm][INFO] start to display main.html
+[2019-07-25 07:10:24,890][Thread-3:2212][task_id:MyDjangoOBVProj.mainForm][INFO] start draw
+[2019-07-25 07:10:24,890][Thread-3:2212][task_id:MyDjangoOBVProj.mainForm][INFO] stockCode is:600007
+[2019-07-25 07:10:24,890][Thread-3:2212][task_id:MyDjangoOBVProj.mainForm][INFO] startDate is:2019-01-01
+[2019-07-25 07:10:24,890][Thread-3:2212][task_id:MyDjangoOBVProj.mainForm][INFO] endDate is:2019-05-31
+[2019-07-25 07:10:24,890][Thread-3:2212][task_id:MyDjangoOBVProj.mainForm][INFO] start loadStock
+[2019-07-25 07:10:24,906][Thread-3:2212][task_id:MyDjangoOBVProj.mainForm][INFO] start calOBV

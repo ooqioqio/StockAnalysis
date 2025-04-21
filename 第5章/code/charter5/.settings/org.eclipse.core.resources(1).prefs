@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/getDataByPandasDatareader.py=utf-8
+encoding//src/getFromSinaAPI.py=utf-8
+encoding//src/getStockAsCsv.py=utf-8
+encoding//src/getStockInfoByTS.py=utf-8
+encoding//src/printDataByPandasDatareader.py=utf-8
+encoding//src/printStockCodeByTS.py=utf-8
+encoding//src/regexMatchDemo.py=utf-8
+encoding//src/regexSplitDemo.py=utf-8
+encoding//src/urllibDemo.py=utf-8
+encoding//src/urllibWithParam.py=utf-8

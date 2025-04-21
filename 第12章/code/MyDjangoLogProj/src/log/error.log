@@ -1,0 +1,11 @@
+[2019-07-14 21:07:51,671][Thread-1:4960][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:04:00,828][Thread-3:7880][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:04:59,593][Thread-5:1568][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:12:26,265][Thread-1:6468][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:14:10,515][Thread-1:7964][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:14:16,812][Thread-3:7328][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:15:38,750][Thread-1:7536][task_id:errorOnly][ERROR] error level log
+[2019-07-15 22:22:46,984][Thread-1:7924][task_id:errorOnly][DEBUG] debug level log
+[2019-07-15 22:22:46,984][Thread-1:7924][task_id:errorOnly][WARNING] warning level log
+[2019-07-15 22:22:46,984][Thread-1:7924][task_id:errorOnly][INFO] info level log
+[2019-07-15 22:22:46,984][Thread-1:7924][task_id:errorOnly][ERROR] error level log

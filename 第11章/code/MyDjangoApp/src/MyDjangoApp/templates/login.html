@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>django login</title>
+</head>
+<body> 
+    <form name="loginForm" action="/loginAction/" method="POST">
+        {% csrf_token %}		
+		<table>
+			<tr>
+				<td>UserName:</td>
+				<td><input type="text" name="username" id="username" /></td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td><input type="password" name="password" id="password" /></td>
+			</tr>
+			<tr>
+				<td colospan="2" align="center">
+	<input type="submit" name="logon" value="Login" />&nbsp;&nbsp;
+				<input type="reset" name="reset" value="Reset" />
+				</td>
+			</tr>
+		</table>
+	</form>     
+</body>
+</html>

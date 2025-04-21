@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/calKDJBuyPoints.py=utf-8
+encoding//src/calKDJSellPoints.py=utf-8
+encoding//src/drawKDJ.py=utf-8
+encoding//src/drawKDJWithTkinter.py=utf-8
+encoding//src/drawKLineWithTkinter.py=utf-8
+encoding//src/tkinterCheckBox.py=utf-8
+encoding//src/tkinterStart.py=utf-8
+encoding//src/tkinterWithCanvas.py=utf-8
+encoding//src/tkinterWithCheckbutton.py=utf-8
+encoding//src/tkinterWithMatplotlib.py=utf-8
+encoding//src/tkinterWithRadiobutton.py=utf-8
